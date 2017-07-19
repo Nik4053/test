@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dsafjdsanu 
+=======
+hallo
+du mongo
+>>>>>>> 7fa01a2b93897e5ce5918025ccfcebdf0057490f
